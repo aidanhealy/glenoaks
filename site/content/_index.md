@@ -29,7 +29,7 @@ products:
   - image: /img/illustrations-tutorials.svg
     heading: Trusted
     text: 'Believe the hype: 125,000+ 5 star reviews'
-values:
+about:
   heading: Safe and Secure
   text: >-
     Our industry-leading technology protects your money and guarantees it
