@@ -1,7 +1,7 @@
 ---
 title: A better way to send money anywhere
 subtitle: Your money is in safe hands
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron-phone-laptop-2.jpg
 blurb:
   heading: Why RemitNow?
   text: >-
