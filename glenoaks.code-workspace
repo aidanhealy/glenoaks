@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "C:\\Users\\Mark\\Local Sites\\healyconsultants.local\\app\\public\\wp-content\\themes\\healy"
 		}
 	],
 	"settings": {}
